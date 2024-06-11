@@ -14,6 +14,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>   
 </h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CapitanGrant)  
-
-![GitHub metrics](https://metrics.lecoq.io/CapitanGrant)  
