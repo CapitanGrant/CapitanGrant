@@ -3,11 +3,13 @@
 <h3 align="center">Computer science engineer, IT Python developer</h3>
 
 
-**CapitanGrant/CapitanGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+✨[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CapitanGrant)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CapitanGrant)  
+![GitHub metrics](https://metrics.lecoq.io/CapitanGrant)  ✨
 
-![GitHub metrics](https://metrics.lecoq.io/CapitanGrant)  
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+          
+          
