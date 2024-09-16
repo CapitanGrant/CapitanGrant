@@ -1,5 +1,18 @@
- <h1 align="center">✨Hi there, I'm <a href="https://t.me/asvpnsupport" target="_blank">Roman</a> ✨
+ <h1 align="center">✨Привет я  Роман, <a href="https://t.me/asvpnsupport" target="_blank"></a> ✨
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+👨‍💻  бэкенд-разработчик  с  🔥  страстью  к  инновациям  и  желанием  работать  над  проектами,  которые  решают  реальные  проблемы  🌎.  
+
+---
+
+
+*   **Мои  интересы:**  💰  Инвестиции  и  финансовое  планирование,
+*   📚  чтение  и  самообразование,
+*   💻  сборка  и  настройка  компьютеров,
+*   📈  инвестиции  в  акции,
+*   🏃‍♂️  активный  отдых  (⚽️  мини  футбол,  🏓  настольный  и  большой  теннис,  🏒  хоккей,  🏃  бег,  ♟️  шахматы,  🏍️  мотоспорт,  🎣  рыбалка,  🎸 гитара.
+
+---
 <a href="https://github.com/CapitanGrant/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=CapitanGrant&style=for-the-badge">
 </a>
