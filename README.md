@@ -1,8 +1,8 @@
  <h1 align="center">✨Hi there, I'm <a href="https://t.me/asvpnsupport" target="_blank">Roman</a> ✨
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="![](https://komarev.com/ghpvc/?username=CapitanGrant)" />
-  </a>
+<a href="https://github.com/CapitanGrant/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=CapitanGrant&style=for-the-badge">
+</a>
 <h3 align="center">Computer science engineer, IT Python developer
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="postman"  alt="postman" width="40" height="40"/>&nbsp;
