@@ -20,7 +20,15 @@
 <a href="https://github.com/CapitanGrant/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=CapitanGrant&style=for-the-badge">
 </a>
-<h3 align="center">Computer science engineer, IT Python developer
+
+<div align="center">
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/CapitanGrant?theme=dark&font=Marvel&ext=contest)
+  
+  
+</div>
+
+<h3 align="center"
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="postman"  alt="postman" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;
